@@ -10,14 +10,14 @@ sidebar:
     # Profile information
     name: Nerissa Veldman
     tagline: CA(SA)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profilen.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nerissa.veldman@gmail.com
     phone: 078 654 2754
     timezone: South Africa Standard Time
     citizenship: South African
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: nerissa-veldman-502b2a16a
     xing: 
     github: 
